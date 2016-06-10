@@ -1,0 +1,9 @@
+1 CS100
+2 MATH210
+2 CS105
+1 CS200
+203 CS100
+203 MATH210
+4 CS200
+-1
+You should never get here!

@@ -1,0 +1,4 @@
+1.) A public final class cannot be a base class for any given class. This means that there is no possibility for inheritance or code re-use(over riding is also disabled). It is possible for this parent class to extend a superclass of its own. 
+
+2.) Eclipse stores the solution in a folder based hierarchy, called packaged. For example. my solution is located under:
+	edu.wit.comp2070.aryank.lab7
